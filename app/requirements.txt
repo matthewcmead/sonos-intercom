@@ -1,0 +1,3 @@
+git+https://github.com/SoCo/SoCo.git@v0.27.1
+flask
+expiringdict
